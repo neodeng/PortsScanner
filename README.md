@@ -15,4 +15,8 @@ Help to detect if there is a host which properly has a risk of being attacked in
 
 just run this script in your terminal
 
+### Requirements
+
+* scapy
+* wxPython
 
